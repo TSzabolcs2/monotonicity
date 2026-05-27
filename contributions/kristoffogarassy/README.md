@@ -1,7 +1,9 @@
 # Contribution: definability of images of definable functions
 
 Group: Dancs Bálint, Ronyecz Erik, Renácz József, Csilling Dániel, Fogarassy Kristóf
+
 Contributor: Fogarassy Kristóf
+
 GitHub username: kristoffogarassy
 
 ## Task
